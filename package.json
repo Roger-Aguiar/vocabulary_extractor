@@ -1,0 +1,32 @@
+{
+  "name": "vocabulary_extractor",
+  "version": "1.0.0",
+  "description": "This package contains functions that will help you to extract a vocabulary from a collection of documents.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roger-Aguiar/vocabulary_extractor.git"
+  },
+  "keywords": [
+    "retrieval",
+    "information"
+  ],
+  "author": "Roger Silva Santos Aguiar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roger-Aguiar/vocabulary_extractor/issues"
+  },
+  "homepage": "https://github.com/Roger-Aguiar/vocabulary_extractor#readme",
+  "devDependencies": {
+    "@babel/core": "^7.18.6",
+    "@babel/preset-env": "^7.18.6",
+    "@babel/preset-typescript": "^7.18.6",
+    "@types/jest": "^28.1.3",
+    "babel-jest": "^28.1.2",
+    "jest": "^28.1.2",
+    "ts-jest": "^28.0.5"
+  }
+}
